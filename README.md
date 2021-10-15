@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### My company does not maintain github, 
+### so you can see below my activity.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YRELIS)](https://github.com/anuraghazra/github-readme-stats)
 
